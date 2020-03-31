@@ -1,4 +1,4 @@
-# 周汇总 2019.12.29
+# 周汇总 2029.03.29
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,41 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
-- [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
-- [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)
-- [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
-- [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
-- [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
-- [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
+- [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
+- [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
+- [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
+- [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
+- [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
+- [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
+- [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
 
 ## css
-- [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
-- [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
-- [说说display:none和visibility:hidden的区别](https://github.com/haizlin/fe-interview/issues/1699)
-- [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
-- [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
-- [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
-- [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
+- [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
+- [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
+- [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
+- [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
+- [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
+- [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
+- [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
 
 ## js
-- [js事件中currentTarget和target的区别是什么？](https://github.com/haizlin/fe-interview/issues/1708)
-- [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
-- [说说你对异常处理和错误处理的理解](https://github.com/haizlin/fe-interview/issues/1700)
-- [用js实现动态改变根元素字体大小的方法](https://github.com/haizlin/fe-interview/issues/1696)
-- [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
-- [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
-- [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
+- [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+- [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
+- [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
+- [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+- [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
+- [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
+- [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
 
 ## 软技能
-- [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
-- [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
-- [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)
-- [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
-- [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
-- [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
-- [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
+- [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+- [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
+- [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
+- [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
+- [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+- [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
+- [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
+
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

@@ -33,11 +33,13 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.02) —— 第261天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
-- [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
-- [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
-- [软技能] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+
+## 今天的知识点 (2020.03.31) —— 第350天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2163)
+- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2164)
+- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2165)
+- [软技能] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2167)
+
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +77,20 @@
 
 …………  
 
-- 第259天 (2019.12.31)
-    - [html] [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
-    - [css] [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
-    - [js] [你有使用过ExtJs吗？说说它的优缺点是什么？](https://github.com/haizlin/fe-interview/issues/1716)
-    - [软技能] [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
 
-- 第260天 (2020.01.01)
-    - [html] [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
-    - [css] [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
-    - [js] [你有使用过BackboneJS吗？说说它和vue有什么区别？](https://github.com/haizlin/fe-interview/issues/1720)
-    - [软技能] [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
+- 第348天 (2020.03.29)
+    - [html] [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
+	- [css] [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
+	- [js] [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+	- [软技能] [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+	
+
+- 第349天 (2020.03.30)
+    - [html] [使用canvas制作一个印章](https://github.com/haizlin/fe-interview/issues/2159)
+	- [css] [用css3画出一个立体魔方](https://github.com/haizlin/fe-interview/issues/2160)
+	- [js] [ajax请求中为何会出现OPTIONS请求？](https://github.com/haizlin/fe-interview/issues/2161)
+	- [软技能] [说说扫码登陆和扫码支付的原理及流程是什么？](https://github.com/haizlin/fe-interview/issues/2162)
+	
     
 - **[查看全部](category/history.md)**
 
@@ -117,6 +122,7 @@
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
 - [cxwht](https://github.com/cxwht)
+- [zhaoqian0901](https://github.com/zhaoqian0901)
 
 ## 重大事件
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -167,6 +173,18 @@
 - 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
+- 2020.02.28 — 第317天，第7次登上github热门榜！
+- 2020.03.09 — 第328天，第8次登上github热门榜！去年年底说的官网的事还没上线，不找理由，继续期待吧，满一年的时候会实现的
+- 2020.03.11 — 第330天，star数突破10000，真正跨入万人项目了，在这公布下数据统计（真开源，敢反馈） ：
+    - 坚持每天4.30-5:00之间发布3+1题目，第330天
+    - github有10000人关注，全球开源项目排名第1468名
+    - 总共发布2012道题，涉及html/javascript/css/软技能/vue/react/es/nodejs/jquery等题目，前端类题目全球排名第一，包含各大厂商 
+    - 共有39个作者贡献了题目
+    - 总共1250位朋友参与答题，共有6165条回复
+    - 公众号有3710位朋友关注
+    - 有8次上了github全球热门榜
+    - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
+    - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
@@ -197,6 +215,9 @@
 * [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
 * [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
+* [达达前端](https://github.com/webVueBlog/vueblog) （公众号 「达达前端」作者，一个热爱前端的达达程序员）
+* [前端高校](https://github.com/webVueBlog/vueblog) （公众号 「前端高校」作者，置身世外只为暗中观察）
+* [魔王哪吒](https://juejin.im/user/5e477d7ce51d4526c550a27d) （web前端开发工程师）
 * [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
 * [qiangdada](https://github.com/xuqiang521/overwrite) （公众号「合格前端」，定期推送一些精选博文，内容包括但不仅限于前端，不定期进行技术直播分享。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
@@ -213,6 +234,7 @@
 * [前端小智](https://juejin.im/user/59df61ec51882578ce26ee6e)（公众号「大迁世界」作者）
 * [ConardLi](https://github.com/ConardLi)（公众号「code秘密花园」作者）
 * [RobinsonZhang](https://github.com/robinson90)（公众号「达摩空间」作者，爱分享，爱挑战，技术狂热，不断写作，前沿布道。 我们从小白到大师，慢慢来。）
+* [Wscats](https://github.com/Wscats/articles)（公众号「前端漫游」作者，始于前端但不止于前端。）
 * [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)（前端早读课的姊妹篇，每天一个前端知识点，苦练前端真功夫）
 * [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)（每日一题（开开森森学前端系列））
 * [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)（前端漫谈系列）
@@ -232,4 +254,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
